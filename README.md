@@ -36,10 +36,12 @@ This project focuses on improving frontend development skills and creating a cle
 	•	Fast and easy to use
 
 📂 Skill_Learning_App/
+```
 ├── index.html     # Main structure of the app
 ├── style.css      # Styling and layout design
 ├── script.js      # App logic & interactivity
 └── README.md
+```
 
 ⚙️ Requirements
 	•	Any modern web browser (Chrome, Edge, Firefox)
